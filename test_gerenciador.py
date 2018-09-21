@@ -33,3 +33,4 @@ def test_lista_de_tarefas_nao_vazia_retorna_conteudo():
             'descricao': 'tarefa de numero 1',
             'estado': False}]
     tarefas.clear()
+
